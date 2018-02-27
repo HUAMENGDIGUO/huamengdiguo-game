@@ -1,2 +1,2 @@
-# huamengdiguo-game
-javascript game
+# gua.game.js
+JavaScript 写游戏
